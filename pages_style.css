@@ -1,0 +1,23 @@
+/* Portfolio, Contact, Library Styles */
+.projects-hero, .contact-hero, .lib-hero {
+    text-align: center;
+    padding: 10vh 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.projects-hero h1, .contact-hero h1, .lib-hero h1 {
+    font-size: clamp(3rem, 10vw, 6rem);
+    font-weight: 800;
+    margin-bottom: 2rem;
+    letter-spacing: -0.05em;
+}
+.project-list, .lib-list {
+    text-align: center;
+    font-size: 1.25rem;
+    color: #666;
+    margin-bottom: 10vh;
+}
+.contact-hero a {
+    color: #fff;
+    text-decoration: underline;
+}

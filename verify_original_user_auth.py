@@ -1,0 +1,26 @@
+import os
+import base64
+import requests
+
+# URL and Credentials
+wp_url = "https://clawhaven.uk/"
+username = "Lenni" # Using the original username we found in the .env file
+password = os.environ.get("WP_PASSWORD")
+
+# Prepare Authorization Header
+auth_string = f"{username}:{password}"
+auth_encoded = base64.b64encode(auth_string.encode('utf-8')).decode('utf-8')
+
+headers = {
+    "User-Agent": "Mozilla/5.0",
+    "Authorization": f"Basic {auth_encoded}"
+}
+
+# 1. Ping the REST API endpoint directly
+api_url = f"{wp_url.rstrip('/')}/wp-json/wp/v2/users/me"
+
+print(f"Attempting API request to: {api_url} as {username}")
+response = requests.get(api_url, headers=headers)
+
+print(f"Status Code: {response.status_code}")
+print(f"Response Body: {response.text}")

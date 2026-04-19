@@ -1,0 +1,37 @@
+/* 
+Frontend Art Direction: Full-Bleed Typographic Hero 
+Theme: Minimalist, Bold, Restrained
+*/
+
+.thought-hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 2rem;
+    background: #000; /* Deep black for maximum contrast */
+    color: #fff;
+    text-align: center;
+}
+
+.thought-of-the-day {
+    max-width: 800px;
+}
+
+.thought-of-the-day blockquote {
+    font-size: clamp(2.5rem, 8vw, 5rem); /* Responsive fluid typography */
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 0;
+    letter-spacing: -0.02em;
+}
+
+.thought-of-the-day cite {
+    display: block;
+    margin-top: 2rem;
+    font-size: 1rem;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    opacity: 0.6;
+}

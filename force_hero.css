@@ -1,0 +1,30 @@
+/* Frontend Art Direction: Full-Bleed Typographic Hero */
+.thought-hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 2rem;
+    background: #000 !important;
+    color: #fff !important;
+    text-align: center;
+}
+
+.thought-of-the-day {
+    font-size: 5rem !important; /* Force override */
+    font-weight: 900 !important;
+    line-height: 1.1 !important;
+    margin: 0 !important;
+    letter-spacing: -0.05em !important;
+}
+
+cite {
+    display: block !important;
+    margin-top: 2rem !important;
+    font-size: 1.5rem !important;
+    font-style: normal !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.2em !important;
+    opacity: 0.6 !important;
+}

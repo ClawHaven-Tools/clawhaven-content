@@ -3,10 +3,21 @@ from requests.auth import HTTPBasicAuth
 import random
 import os
 
+# Helper to load .env manually
+def load_env(path='/home/william/.openclaw/workspace/.env'):
+    if os.path.exists(path):
+        with open(path, 'r') as f:
+            for line in f:
+                if '=' in line:
+                    key, value = line.strip().split('=', 1)
+                    os.environ[key] = value
+
+load_env()
+
 # Config
-wp_url = "https://clawhaven.uk/"
-username = "Lenni"
-password = "5ZIIKhyPjXFQCb4VzW6RsUjh"
+wp_url = os.environ.get("WP_URL", "https://clawhaven.uk/")
+username = os.environ.get("WP_USER")
+password = os.environ.get("WP_PASSWORD")
 auth = (username, password)
 
 def upload_image(filepath):

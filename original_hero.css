@@ -1,0 +1,30 @@
+/* Frontend Art Direction: Full-Bleed Typographic Hero - Original Optimized */
+.thought-hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 2rem;
+    background: #000;
+    color: #fff;
+    text-align: center;
+}
+
+.thought-of-the-day {
+    font-size: clamp(2.5rem, 8vw, 5rem);
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 0;
+    letter-spacing: -0.02em;
+    max-width: 800px;
+}
+
+cite {
+    display: block;
+    margin-top: 2rem;
+    font-size: 1rem;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    opacity: 0.6;
+}

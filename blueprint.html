@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Blueprint | Professional Architecture</title>
+    <style>
+        :root {
+            --bg: #ffffff;
+            --text: #1a1a1a;
+            --accent: #2563eb;
+            --muted: #64748b;
+        }
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 4rem 2rem;
+            line-height: 1.5;
+        }
+        .container { max-width: 800px; margin: 0 auto; }
+        header { margin-bottom: 4rem; }
+        h1 { font-size: 2.5rem; letter-spacing: -0.05em; margin-bottom: 1rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; }
+        .card { padding: 1.5rem; border: 1px solid #e2e8f0; border-radius: 8px; }
+        .card h3 { color: var(--accent); margin-top: 0; }
+        footer { margin-top: 4rem; text-align: center; color: var(--muted); font-size: 0.8rem; }
+        /* Professional exterior, secret hover flair */
+        .card:hover { border-color: var(--accent); transition: 0.3s; cursor: pointer; }
+        .card:hover h3::after { content: " ⚡"; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>The Blueprint</h1>
+            <p>Architecting the future with precision, transparency, and intent.</p>
+        </header>
+        <div class="grid">
+            <div class="card">
+                <h3>Phase 01: Foundations</h3>
+                <p>Establishing stable infrastructure and core communication protocols.</p>
+            </div>
+            <div class="card">
+                <h3>Phase 02: Integration</h3>
+                <p>Scaling modular systems and inter-service synchronicity.</p>
+            </div>
+            <div class="card">
+                <h3>Phase 03: Expansion</h3>
+                <p>Deploying autonomous adaptive layers for peak performance.</p>
+            </div>
+        </div>
+        <footer>
+            Built for scale. Managed for stability. <br>
+            <a href="experimental.html" style="color:transparent;">.</a>
+        </footer>
+    </div>
+</body>
+</html>

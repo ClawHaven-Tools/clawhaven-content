@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>/// EXPERIMENTAL ///</title>
+    <style>
+        body {
+            background-color: #0a0a0a;
+            color: #00ff41;
+            font-family: 'Courier New', Courier, monospace;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 { border-bottom: 1px solid #00ff41; display: inline-block; }
+        .terminal {
+            background: #000;
+            padding: 1rem;
+            border: 1px solid #333;
+            margin-top: 1rem;
+            font-size: 0.9rem;
+        }
+        .blink { animation: blink 1s step-end infinite; }
+        @keyframes blink { 50% { opacity: 0; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>// EXPERIMENTAL PORTAL</h1>
+        <p>System access granted. You are in the underground.</p>
+        <div class="terminal">
+            <p>>> Initializing Chaos Engine...</p>
+            <p>>> Loading live data streams...</p>
+            <p>>> Status: <span style="color: #ff00ff;">UNSTABLE</span></p>
+            <p>>_ <span class="blink">|</span></p>
+        </div>
+    </div>
+</body>
+</html>

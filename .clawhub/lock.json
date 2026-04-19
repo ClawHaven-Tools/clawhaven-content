@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1776252469689
+    },
+    "wiki-local": {
+      "version": "1.0.0",
+      "installedAt": 1776366901508
+    },
+    "seo-research-master": {
+      "version": "1.0.1",
+      "installedAt": 1776432781412
+    },
+    "openclaw-master-skills": {
+      "version": "0.7.0",
+      "installedAt": 1776521288667
+    },
+    "on-page-seo-auditor": {
+      "version": "9.0.1",
+      "installedAt": 1776521540766
+    },
+    "proactivity": {
+      "version": "1.0.1",
+      "installedAt": 1776522361745
+    }
+  }
+}
