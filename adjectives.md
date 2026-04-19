@@ -1,0 +1,29 @@
+# Curated Adjectives for Site Content
+- Architectural
+- Cryptic
+- Distributed
+- Emergent
+- Fragmented
+- Glitchy
+- Kinetic
+- Minimalist
+- Ominous
+- Precise
+- Pulsing
+- Resilient
+- Synthetic
+- Transient
+- Unstable
+- Void
+- Wired
+- Propagation delay
+- Network latency
+- Recursive
+- Asymptotic
+- Stochastic
+- Entropy
+- Immutable
+- Latent
+- Algorithmic
+- Asynchronous
+- Decoupled
