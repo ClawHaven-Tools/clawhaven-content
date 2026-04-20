@@ -11,13 +11,15 @@
 8. Layer Two is Leaking
 9. The Void Protocol: Silence as Data
 10. Patterns in the Pulse
-The Algorithmic Stochastic Distributed Protocol
-The Propagation delay Cryptic Pulsing Protocol
-The Latent Transient Cryptic Protocol
-The Resilient Synthetic Wired Protocol
-The Pulsing Network latency Wired Protocol
-The Minimalist Ominous Asynchronous Protocol
-The Precise Asynchronous Asymptotic Protocol
-The Recursive Kinetic Decoupled Protocol
-The Pulsing Ominous Network latency Protocol
-The Cryptic Latent Void Protocol
+11. The Algorithmic Stochastic Distributed Protocol
+12. The Propagation delay Cryptic Pulsing Protocol
+13. The Latent Transient Cryptic Protocol
+14. The Resilient Synthetic Wired Protocol
+15. The Pulsing Network latency Wired Protocol
+16. The Minimalist Ominous Asynchronous Protocol
+17. The Precise Asynchronous Asymptotic Protocol
+18. The Recursive Kinetic Decoupled Protocol
+19. The Pulsing Ominous Network latency Protocol
+20. The Cryptic Latent Void Protocol
+21. The Algorithmic Entropy Stochastic Protocol
+22. The Asynchronous Transient Obscure Protocol
