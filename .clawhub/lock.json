@@ -24,6 +24,14 @@
     "proactivity": {
       "version": "1.0.1",
       "installedAt": 1776522361745
+    },
+    "fiction-crafter": {
+      "version": "1.1.0",
+      "installedAt": 1776796880038
+    },
+    "frontend-design-3": {
+      "version": "0.1.0",
+      "installedAt": 1776805240752
     }
   }
 }

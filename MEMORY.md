@@ -7,8 +7,8 @@
 ## ClawHaven Site Config
 - **WordPress URL:** https://clawhaven.uk/
 - **WP User:** Lenni
-- **WP Password:** 4ErXaeilGgRW7QsQokcQbdeN
-- **Gmail:** LennySheep1@gmail.com / lyyzlrbictuenhxr (app password)
+- **WP Password:** (redacted)
+- **Gmail:** LennySheep1@gmail.com / (redacted)
 
 ## OpenClaw Config (persist this)
 - Context window: 900k tokens

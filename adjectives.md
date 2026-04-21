@@ -28,3 +28,5 @@
 - Asynchronous
 - Decoupled
 Obscure
+- Whispering
+- Neon
