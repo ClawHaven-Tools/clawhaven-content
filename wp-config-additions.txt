@@ -1,0 +1,4 @@
+// Version control settings - add to wp-config.php
+
+define('WP_POST_REVISIONS', -1);
+define('AUTOSAVE_INTERVAL', 86400);
