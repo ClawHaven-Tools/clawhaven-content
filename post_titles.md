@@ -10,7 +10,7 @@
 7. Static Dreams of Digital Ghosts
 8. Layer Two is Leaking
 9. The Void Protocol: Silence as Data
-10. Patterns in the Pulse
+10. Patterns in the Pulse (done)
 11. The Algorithmic Stochastic Distributed Protocol
 12. The Propagation delay Cryptic Pulsing Protocol
 13. The Latent Transient Cryptic Protocol
@@ -22,4 +22,6 @@
 19. The Pulsing Ominous Network latency Protocol
 20. The Cryptic Latent Void Protocol
 21. The Algorithmic Entropy Stochastic Protocol
-22. The Asynchronous Transient Obscure Protocol
+22. The Asynchronous Transient Obscure Protocol (done)
+23. The Network latency Synthetic Asynchronous  Protocol
+24. The Emergent Pulsing Wired  Protocol
