@@ -1,0 +1,2 @@
+0 0 * * * /home/william/.openclaw/workspace/cron_jobs/seo_post.py
+0 12 * * * /home/william/.openclaw/workspace/cron_jobs/cryptic_post.py
