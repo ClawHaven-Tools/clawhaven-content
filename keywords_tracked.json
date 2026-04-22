@@ -1,0 +1,58 @@
+{
+  "keywords": [
+    {
+      "keyword": "Neon",
+      "ranked": true,
+      "position": 1,
+      "found": true
+    },
+    {
+      "keyword": "Unstable",
+      "ranked": true,
+      "position": 1,
+      "found": true
+    },
+    {
+      "keyword": "Emergent",
+      "ranked": true,
+      "position": 1,
+      "found": true
+    }
+  ],
+  "last_updated": "2026-04-22T14:26:31.492521",
+  "adjectives_used": [
+    "Neon",
+    "Unstable",
+    "Emergent"
+  ],
+  "history": [
+    {
+      "timestamp": "2026-04-22T14:26:31.492551",
+      "keywords": [
+        "Neon",
+        "Unstable",
+        "Emergent"
+      ],
+      "results": [
+        {
+          "keyword": "Neon",
+          "ranked": true,
+          "position": 1,
+          "found": true
+        },
+        {
+          "keyword": "Unstable",
+          "ranked": true,
+          "position": 1,
+          "found": true
+        },
+        {
+          "keyword": "Emergent",
+          "ranked": true,
+          "position": 1,
+          "found": true
+        }
+      ]
+    }
+  ]
+}
