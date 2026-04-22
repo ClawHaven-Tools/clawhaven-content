@@ -10,10 +10,29 @@ import requests
 import base64
 from datetime import datetime
 
+import os
+
+# Load environment variables from .env file manually
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+env_path = os.path.join(BASE_DIR, '..', '.env')
+
+if os.path.exists(env_path):
+    with open(env_path) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#') and '=' in line:
+                key, value = line.split('=', 1)
+                os.environ.setdefault(key, value)
+
+# Configuration
 TITLES_FILE = '/home/william/.openclaw/workspace/post_titles.md'
-SITE_URL = 'https://clawhaven.uk/'
-USERNAME = 'Lenni'
-PASSWORD = '4ErXaeilGgRW7QsQokcQbdeN'
+SITE_URL = os.getenv('WP_URL')
+USERNAME = os.getenv('WP_USERNAME')
+PASSWORD = os.getenv('WP_PASSWORD')
+
+# Validate config
+if not all([SITE_URL, USERNAME, PASSWORD]):
+    raise ValueError("Missing WordPress credentials in .env file")
 
 def load_titles():
     """Load titles from markdown file, filtering out already-used ones"""

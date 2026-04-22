@@ -1,6 +1,17 @@
-openclaw.json
+# Ignore environment files
+.env
+.env.local
+
+# Ignore sensitive data
+*.env
+*.key
+*.secret
 google_client_secret.json
-netlify-site/
 openclaw.json
-google_client_secret.json
-netlify-site/
+
+# Ignore OpenClaw system files (private config)
+.openclaw/
+
+# Ignore memory files
+memory/
+MEMORY.md

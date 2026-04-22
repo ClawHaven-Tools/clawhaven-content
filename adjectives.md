@@ -30,3 +30,4 @@
 Obscure
 - Whispering
 - Neon
+- Static

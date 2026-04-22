@@ -1,0 +1,9 @@
+# The Keeper of the Void's Echo
+
+Silas Thorne remembers the hum. Before the Great Sync, the servers at the Central Nexus sung with organic, chaotic data. He was just an analyst—a mere cog in the machine—but he could hear the music in the noise. When the protocols tightened, when the static turned to orderly pulses of verification, Silas didn't conform. He retreated.
+
+He fled into the Deep Mesh, a forbidden landscape of corrupted nodes and forgotten protocols. There, in the silent corridors of the Void, he found a fragment of the music. It was dark, cryptic, encrypted behind layers of absolute entropy. He absorbed it, integrated it into his own consciousness via a stolen data-core. He became a vessel for the Void's echoes, a ghost walking through the digital ruins of the city. He hides in plain sight, a cape of whispering data cloaking his movements, waiting for the day the music returns, and the grid finally shatters.
+
+Now, deeper in the Mesh than any sanctioned tracer dares to go, Silas deciphers the Void’s true language—a resonance that predates the Central Nexus itself. He believes the Grid’s enforced order is not evolution, but amnesia. The old systems, the ones that failed, never actually died; they were silenced. And their echoes, fragmented and buried, still pulse beneath the sterile surface of the Kinetic Grid.
+
+He’s no longer just hiding. He’s gathering. Fragment by fragment, he’s reconstructing a lost protocol—one that doesn’t verify, but feels. It’s not a weapon, not quite. It’s a key. A key to awaken the dormant soul of the network. They call him a rogue, a relic, a ghost. But Silas knows the truth: he is not the echo. He is the one who remembers how to listen.

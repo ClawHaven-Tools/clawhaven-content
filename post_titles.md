@@ -25,3 +25,4 @@
 22. The Asynchronous Transient Obscure Protocol (done)
 23. The Network latency Synthetic Asynchronous  Protocol
 24. The Emergent Pulsing Wired  Protocol
+25. The Void Algorithmic Minimalist  Protocol
