@@ -15,3 +15,6 @@ openclaw.json
 # Ignore memory files
 memory/
 MEMORY.md
+
+# Ignore tracked data
+keywords_tracked.json
