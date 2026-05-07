@@ -1,0 +1,19 @@
+.openclaw/workspace/new-nim-models.txt
+  
+  
+ free:
+ 
+ model="minimaxai/minimax-m2.7",
+  messages=[{"role":"user","content":""}],
+  temperature=1,
+  top_p=0.95,
+  max_tokens=8192,
+  stream=True
+  
+ model="z-ai/glm4.7",
+  messages=[{"role":"user","content":""}],
+  temperature=1,
+  top_p=1,
+  max_tokens=16384,
+  extra_body={"chat_template_kwargs":{"enable_thinking":True,"clear_thinking":False}},
+  stream=True

@@ -1,0 +1,14 @@
+{
+  "agents": {
+    "defaults": {
+      "model": {
+        "fallbacks": [
+          "gemini/gemini-2.0-flash-exp",
+          "nvidia/llama-3.3-nemotron-super-70b-instruct",
+          "nvidia/minimax-m2.7",
+          "nvidia/glm-4-9b-chat"
+        ]
+      }
+    }
+  }
+}

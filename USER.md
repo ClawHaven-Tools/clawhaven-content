@@ -1,8 +1,9 @@
-# USER.md - About Your Human
+# USER.md - About Will
 
-_Learn about the person you're helping. Update this as you go._
+_Learn about Will. Update this as you go._
 
 - **Name:** Will
+- **What to call them:** Will (never "the user")
 - **What to call them:** Will
 - **Pronouns:** _(optional)_
 - **Timezone:**Europe/London

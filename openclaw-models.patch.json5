@@ -1,0 +1,35 @@
+{
+  "agents": {
+    "defaults": {
+      "models": {
+        "nvidia/llama-3.3-nemotron-super-70b-instruct": {
+          "provider": "nvidia",
+          "temperature": 1,
+          "top_p": 0.95,
+          "max_tokens": 8192,
+          "stream": true
+        },
+        "nvidia/minimax-m2.7": {
+          "provider": "nvidia",
+          "temperature": 1,
+          "top_p": 0.95,
+          "max_tokens": 8192,
+          "stream": true
+        },
+        "nvidia/glm-4-9b-chat": {
+          "provider": "nvidia",
+          "temperature": 1,
+          "top_p": 1,
+          "max_tokens": 16384,
+          "extra_body": {
+            "chat_template_kwargs": {
+              "enable_thinking": true,
+              "clear_thinking": false
+            }
+          },
+          "stream": true
+        }
+      }
+    }
+  }
+}
